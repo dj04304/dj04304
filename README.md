@@ -1,4 +1,20 @@
-### Hi there 👋
+
+## JunHyeong Bak
+
+
+👋hi! I'm Junior Backend Developer   
+I Started Studing JAVA in 2022.5.10 :)
+
+신입 백엔드 개발자입니다.  
+공부는 2022년 5월부터 시작하였고 개발자 취업 준비중에 있습니다.
+
+## 프로젝트
+
+쇼핑몰 프로젝트를 2달간 진행하였고, 이를 헤로쿠로 배포한 경험이 있습니다.
+
+[프로젝트 Worksout](https://github.com/koreaIT-backend-05-2/worksout-TeamProject)
+
+  
 
 <!--
 **dj04304/dj04304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 기술 스택
+#### My Skils is...
 
 ![html5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3)
