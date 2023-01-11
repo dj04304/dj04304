@@ -3,8 +3,8 @@
 
 </br>
 
-👋hi! I'm Junior Backend Developer   
-I Started Studing JAVA in 2022.5.10 :)
+_👋hi! I'm Junior Backend Developer_   
+_I Started Studing JAVA in 2022.5.10 :)_
 
 신입 백엔드 개발자입니다.  
 공부는 2022년 5월부터 시작하였고 개발자 취업 준비중에 있습니다.       
