@@ -21,7 +21,7 @@ IT 개발인력으로 취업하여 1년 내로 새로운 기술을 배우고 싶
 
 쇼핑몰 프로젝트를 2달간 진행하였고, 이를 헤로쿠로 배포한 경험이 있습니다.
 
-[프로젝트 Worksout](https://github.com/koreaIT-backend-05-2/worksout-TeamProject)
+[프로젝트 Worksout](https://github.com/dj04304/git-worksout)
 
 ## My Skils is...
 
