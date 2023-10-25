@@ -4,7 +4,7 @@
 </br>
 
 _👋hi! I'm Game Developer_   
-_I Started Studing JAVA in 2022.09.10_
+_I Started Studing JAVA in 2022.09.10_  
 _And I Studing Unity in 2023.10.30 :)_
 
 신입 백엔드 개발자입니다.  
