@@ -7,7 +7,7 @@ _👋hi! I'm Game Developer_
 _I Started Studing JAVA in 2022.09.10_  
 _And I Studing Unity in 2023.10.30 :)_
 
-신입 백엔드 개발자입니다.  
+신입 유티티 개발자입니다.  
 공부는 2022년 9월부터 시작하였고 개발자 취업 준비중에 있습니다.       
 </br>
 
