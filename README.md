@@ -40,7 +40,7 @@ IT 개발인력으로 취업하여 1년 내로 새로운 기술을 배우고 싶
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB)
 ![Mybatis](https://img.shields.io/badge/-Mybatis-%23000000?style=flat-square)
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=Unity)
-![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat)
+![C#](https://img.shields.io/badge/-C%23-#81C459?logo=Csharp&style=flat)
 
 ## 기타
 
