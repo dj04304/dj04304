@@ -3,46 +3,45 @@
 
 </br>
 
-_👋hi! I'm Game Developer_   
-_I Started Studing JAVA in 2022.09.10_  
-_And I Studing Unity in 2023.10.30 :)_
+## About Me
 
-신입 개발자 입니다.  
-공부는 2022년 9월부터 시작하였고 개발자 취업 준비중에 있습니다.       
+_👋hi! I'm Game Developer_   
+_I Started Studing Unity in 2023.10.25 :)_  
+
+신입 Unity 개발자 입니다.  
+Unity공부를 2023년 10월부터 시작하였습니다.  
+개발 블로그를 통해 몰랐던 내용, 상기시키고 싶은 내용을 정리하고 있습니다. 
+유저 입장에서 한층 더 생각하여 개발하는 것에 중점을 두고 있습니다.
+
 </br>
 
 ## 목표
-
-IT 개발인력으로 취업하여 1년 내로 새로운 기술을 배우고 싶고   
-2년 내로 1인분 이상 할 수 있는 개발자가 되길 원하며   
-3년차부터 누군가에게 설명할 수 있는 개발자가 되고 싶습니다. 
+  
+1년 내로 1인분 이상 할 수 있는 개발자가 되길 원하며   
+2~3년차부터 누군가에게 알려줄 수 있는 개발자가 되고 싶습니다. 
 </br>
 
 ## 프로젝트
 
-쇼핑몰 프로젝트를 2달간 진행하였고, 이를 헤로쿠로 배포한 경험이 있습니다.
+### 최종 프로젝트
 
-[프로젝트 Worksout](https://github.com/dj04304/git-worksout)
+- 최종 프로젝트, 3D + RPG 게임 [🔗FindAieht]([https://github.com/dj04304/Find_aiehT])
+
+### 사이드 프로젝트
+
+[🔗AltF2](https://github.com/dj04304/AltF2)  
+[🔗ProjectPS](https://github.com/dj04304/ProjectPS)  
+[🔗ProjectBird](https://github.com/dj04304/ProjectBird)  
+
 
 ## My Skils is...
 
-![html5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black)
 </br>
 
-![JAVA](https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-%236DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)
-![Apache TomCat](https://img.shields.io/badge/-Apache%20TomCat-%23F8DC75?style=flat-square&logo=apacheTomcat&logoColor=black)
-</br>
-
-![MariaDB](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB)
-![Mybatis](https://img.shields.io/badge/-Mybatis-%23000000?style=flat-square)
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=Unity)
 ![C#](https://img.shields.io/badge/-C%23-%7ED321?logo=Csharp&style=flat)
 
-## 기타
+## 블로그 & 이메일
 
 [블로그](https://dochistory.tistory.com/)   
 <dj043045@gmail.com>
