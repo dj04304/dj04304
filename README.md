@@ -22,6 +22,7 @@ _🔹 From the user's point of view, focusing on developing more._
   
 1년 내로 1인분 이상 할 수 있는 개발자가 되길 원하며   
 2~3년차부터 누군가에게 알려줄 수 있는 개발자가 되고 싶습니다. 
+
 </br>
 
 ## 프로젝트
@@ -41,8 +42,8 @@ _🔹 From the user's point of view, focusing on developing more._
 
 </br>
 
-![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=Unity)
-![C#](https://img.shields.io/badge/-C%23-%7ED321?logo=Csharp&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=Unity) ![C#](https://img.shields.io/badge/-C%23-%7ED321?logo=Csharp&style=flat) ![VisualStudio](https://img.shields.io/badge/-VisualStudio-%235C2D91?logo=visualstudio&style=flat) ![.Net2.0](https://img.shields.io/badge/-.Net2.0-%23512BD4?logo=dotnet&style=flat) ![JSON](https://img.shields.io/badge/-JSON-%23000000?logo=json&style=flat)
+
 
 ## 블로그 & 이메일
 
