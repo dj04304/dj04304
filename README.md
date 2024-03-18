@@ -7,7 +7,7 @@
 
 _👋 hi! I'm Game Developer_   
 _🌱 I Started Studing Unity in 2023.10.25 :)_
-_💬 Through the development blog, organizing what I didn't know and what I want to remind you of_
+_💬 Through the development blog, organizing what I didn't know and what I want to remind you of_  
 _🔹 From the user's point of view, focusing on developing more._
 
 
