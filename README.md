@@ -4,7 +4,7 @@
 </br>
 
 ## Github Stats  
- ![levell1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj04304&show_icons=true&theme=vue)
+ ![levell1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj04304&show_icons=true&theme=ambient_gradient)
 
 
 ## About Me
