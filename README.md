@@ -15,7 +15,7 @@ _💬 Through the development blog, organizing what I didn't know and what I wan
 _🔹 From the user's point of view, focusing on developing more._
 
 
--👋 신입 Unity 개발자 입니다.  
+-👋 Unity 개발자 입니다.  
 -🌱 Unity공부를 2023년 10월부터 시작하였습니다.  
 -💬 개발 블로그를 통해 몰랐던 내용, 상기시키고 싶은 내용을 정리하고 있습니다.   
 -🔹 유저 입장에서 한층 더 생각하여 개발하는 것에 중점을 두고 있습니다.
