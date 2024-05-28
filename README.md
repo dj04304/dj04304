@@ -4,9 +4,10 @@
 </br>
 
 ## Github Stats  
- ![levell1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj04304&show_icons=true&theme=ambient_gradient)
+ ![dj04304's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj04304&show_icons=true&theme=ambient_gradient)
 
-
+## 백준 Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dj04304)](https://solved.ac/dj04304/)
 ## About Me
 
 _👋 hi! I'm Game Developer_   
